@@ -1,0 +1,9 @@
+
+* {
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+}
+body {
+    font-family: "poppins", sans-serif;
+    margin: 0;
+}
